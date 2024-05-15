@@ -1,0 +1,19 @@
+Universidade XXXXX 
+
+alunos 
+  •Um aluno só pode estar matriculado em um curso por vez; 
+  •Alunos possuem um código de identificação (RA); 
+
+professores 
+
+
+cursos
+  •Cursos são compostos por várias disciplinas; 
+  
+disciplinas
+  •Cada disciplina terá no máximo 30 alunos por turma; 
+
+histórico escolar 
+
+
+turmas
